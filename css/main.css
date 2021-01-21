@@ -1,0 +1,16 @@
+#container{
+  text-align: center;
+}
+
+#insieme-icone{
+  display: flex;
+  flex-wrap: wrap;
+}
+.icone{
+  width: 350px;
+  height: 100px;
+}
+
+.fas{
+  height: 50px
+}
